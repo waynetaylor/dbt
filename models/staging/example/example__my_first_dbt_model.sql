@@ -1,6 +1,6 @@
 with source_data as (
 
-    select 3 as id
+    select 2 as id
     union all
     select null as id
 
